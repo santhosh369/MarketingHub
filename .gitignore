@@ -43,3 +43,12 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+.idea/.gitignore
+.idea/MarketingHub.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.gitignore
+.idea/inspectionProfiles/Project_Default.xml
